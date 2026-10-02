@@ -1,0 +1,140 @@
+[
+  {
+    "id": "scope",
+    "range": "命题总览",
+    "title": "命题范围与命题思路",
+    "author": "周建芳",
+    "org": "四川师范大学",
+    "summary": "理解实用性、探究性、资源可访问性与题目限定条件，将赛题转化为检索和证据核查任务。",
+    "focus": [
+      "九大知识板块与50模块",
+      "资源选择与细节定位",
+      "实操型题目分析",
+      "AI辅助与人工判断",
+      "以赛促学、以赛促教"
+    ],
+    "task": "选一道练习题，标出情境、目标资源、检索条件、原始位置和核验方法。",
+    "pages": 97,
+    "bytes": 6359532,
+    "sha256": "efa61cf29c7352f784aeaa20b5de9c92d7c626106d982426cde4a60dcce6719b",
+    "originalFilename": "大赛命题范围与命题思路(7).pdf",
+    "pdfUrl": "./competition/scope.pdf",
+    "coverUrl": "./competition/scope.webp",
+    "date": "2026年培训资料"
+  },
+  {
+    "id": "modules-01-10",
+    "range": "模块01—10",
+    "title": "AI素养与政府开放信息",
+    "author": "张雪娟",
+    "org": "中国科学技术大学图书馆",
+    "summary": "认识AI工具的用途与边界，练习查找平台功能、学习资源和政府公开信息。",
+    "focus": [
+      "AI基础与伦理",
+      "AI学习资源",
+      "办公与科研工具",
+      "多模态与开放资源",
+      "思政、数据及法律信息"
+    ],
+    "task": "比较两种AI工具对同一检索问题的回答，逐条记录能核对的出处与未核验内容。",
+    "pages": 17,
+    "bytes": 2784389,
+    "sha256": "c36465639e8829fe56b325add580849d31e6a3bb9c68791dfb950caf2a3deb2f",
+    "originalFilename": "竞赛培训模块1-10-张雪娟(6).pdf",
+    "pdfUrl": "./competition/modules-01-10.pdf",
+    "coverUrl": "./competition/modules-01-10.webp",
+    "date": "2026年培训资料"
+  },
+  {
+    "id": "modules-11-20",
+    "range": "模块11—20",
+    "title": "从命题逻辑看破题思路",
+    "author": "叶颖涵",
+    "org": "大连理工大学图书馆",
+    "summary": "从真实需求选择归口部门和官方平台，再从结果页进入原始记录、正文页或视频位置。",
+    "focus": [
+      "标准、商标与专利",
+      "官方公共信息查询",
+      "医卫与资格信息",
+      "开放课程与讲座",
+      "电子书与免费数字资源"
+    ],
+    "task": "将“我要找什么”拆成事实查询与学习资源两类，给每类选一个官方入口并定位具体记录。",
+    "pages": 17,
+    "bytes": 3656321,
+    "sha256": "f158636250b7b42ee832b34591bed008c906bf061afd824c334b4c7a0f68e4b0",
+    "originalFilename": "竞赛培训模块11-20-从命题逻辑看破题思路-叶颖涵(7).pdf",
+    "pdfUrl": "./competition/modules-11-20.pdf",
+    "coverUrl": "./competition/modules-11-20.webp",
+    "date": "2026年培训资料"
+  },
+  {
+    "id": "modules-21-30",
+    "range": "模块21—30",
+    "title": "学术信息资源与检索系统",
+    "author": "赖朝新",
+    "org": "四川师范大学图书馆",
+    "summary": "检索期刊、会议、学位论文、开放文献和科研项目，区分题录、全文与原始来源。",
+    "focus": [
+      "论文与会议信息",
+      "学位论文与科研项目",
+      "OA与预印本",
+      "学术及图片搜索",
+      "网络指数与馆藏查询"
+    ],
+    "task": "找到一篇真实医学论文，核对题名、作者、年份和标识符，再写清全文获得方式与使用许可。",
+    "pages": 23,
+    "bytes": 2375947,
+    "sha256": "2e1637e6808431d516be44a47e53557d3a5b7f7cb6ecc220727c552380e02608",
+    "originalFilename": "竞赛培训模块21-30-赖朝新(6).pdf",
+    "pdfUrl": "./competition/modules-21-30.pdf",
+    "coverUrl": "./competition/modules-21-30.webp",
+    "date": "2026年培训资料"
+  },
+  {
+    "id": "modules-31-40",
+    "range": "模块31—40",
+    "title": "信息检索与知识管理",
+    "author": "查颖",
+    "org": "深圳大学图书馆",
+    "summary": "练习高级检索、逻辑组合和字段筛选，并用笔记、导图、截图及录屏记录可复现的操作。",
+    "focus": [
+      "高级检索与布尔逻辑",
+      "截词、精确及模糊匹配",
+      "字段限制与搜索引擎语法",
+      "导图、笔记与问卷",
+      "插件、截图及录屏"
+    ],
+    "task": "在两个数据库分别完成同一主题检索，对照各自语法，提交完整检索式、筛选条件和结果日志。",
+    "pages": 18,
+    "bytes": 14948285,
+    "sha256": "34581e0a09cdffc1515b398681e7cdac1f39e477dd43a65e3ebcdc5426a66d58",
+    "originalFilename": "竞赛培训模块31-40：信息检索与知识管理-查颖(6).pdf",
+    "pdfUrl": "./competition/modules-31-40.pdf",
+    "coverUrl": "./competition/modules-31-40.webp",
+    "date": "2026年培训资料"
+  },
+  {
+    "id": "modules-41-50",
+    "range": "模块41—50",
+    "title": "学术写作与科研工具",
+    "author": "安嘉璐",
+    "org": "西安交通大学图书馆",
+    "summary": "将PDF处理、期刊评价、引用规范、文献管理和可复现作图连接成完整学习流程。",
+    "focus": [
+      "PDF处理与论文排版",
+      "学术评价与投稿选刊",
+      "学术伦理及引文格式",
+      "文献管理与追踪",
+      "数据处理与文献可视化"
+    ],
+    "task": "整理5条真实题录，核对正文引用；再用真实数据完成一张有单位、来源和图注的数据图。",
+    "pages": 20,
+    "bytes": 3937760,
+    "sha256": "0c2c090825428d69dc51875c7971211201527fef00be72950f66ca93a459bdf1",
+    "originalFilename": "竞赛培训模块41-50-安嘉璐(6).pdf",
+    "pdfUrl": "./competition/modules-41-50.pdf",
+    "coverUrl": "./competition/modules-41-50.webp",
+    "date": "2026年培训资料"
+  }
+]
